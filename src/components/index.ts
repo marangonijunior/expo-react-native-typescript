@@ -1,0 +1,1 @@
+export { default as FeeInformation } from "./feesInformation/feesInformation";
